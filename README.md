@@ -1,7 +1,7 @@
 # Hey, I’m Lisamarie Treser 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ltreser/ltreser/main/avatar.png?cachebust=1" width="140" />
+  <img src="https://raw.githubusercontent.com/ltreser/avatar.png" width="140" />
 </p>
 
 <p align="center">
