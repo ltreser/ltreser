@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td valign="top" width="65%">
-      <p>I'm a software engineering student at 42 coding school, currently finishing my studies.<br>
+      <p>I'm a software engineering student at 42, currently finishing my studies.<br>
       Most of my work is in C, C++ and Linux, focused on systems-level programming.<br>
       I like understanding how things work under the surface — memory, performance, and how software behaves at runtime. That's usually what pulls me into a project.</p>
       <h3>🧠 About</h3>
@@ -17,10 +17,14 @@
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Make-A42E2B?style=for-the-badge&logo=cmake&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
       </p>
     </td>
     <td valign="middle" align="right" width="35%">
-      <img src="https://raw.githubusercontent.com/ltreser/ltreser/main/avatar.png" width="700" />
+      <img src="https://raw.githubusercontent.com/ltreser/ltreser/main/avatar.png" width="220" />
     </td>
   </tr>
 </table>
