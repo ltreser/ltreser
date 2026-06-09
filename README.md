@@ -6,26 +6,23 @@
       <p>I'm a software engineering student at <strong>42 School</strong>, currently finishing my studies.</p>
       <p>Most of my work is focused on <strong>C, C++ and Linux</strong>, especially at the systems level.<br>
       I like understanding what happens under the surface — memory, performance, and how software behaves when it runs. That's usually what draws me into a project.</p>
+      <ul>
+        <li>🎓 Finishing my studies at <strong>42 School</strong></li>
+        <li>💻 Working mainly with <strong>C, C++ and Linux</strong></li>
+        <li>⚙️ Interested in systems programming, performance, and low-level design</li>
+        <li>🧩 Prefer building things from scratch when it makes sense</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       </p>
     </td>
-    <td valign="top" align="right" width="35%">
+    <td valign="middle" align="right" width="35%">
       <img src="https://raw.githubusercontent.com/ltreser/ltreser/main/avatar.png" width="220" />
     </td>
   </tr>
 </table>
-
----
-
-## 🧠 About
-
-- 🎓 Finishing my studies at **42 School**
-- 💻 Working mainly with **C, C++ and Linux**
-- ⚙️ Interested in systems programming, performance, and low-level design
-- 🧩 Prefer building things from scratch when it makes sense
 
 ---
 
