@@ -6,6 +6,7 @@
       <p>I'm a software engineering student at <strong>42 School</strong>, currently finishing my studies.</p>
       <p>Most of my work is focused on <strong>C, C++ and Linux</strong>, especially at the systems level.<br>
       I like understanding what happens under the surface — memory, performance, and how software behaves when it runs. That's usually what draws me into a project.</p>
+      <h3>🧠 About me</h3>
       <ul>
         <li>🎓 Finishing my studies at <strong>42 School</strong></li>
         <li>💻 Working mainly with <strong>C, C++ and Linux</strong></li>
@@ -19,7 +20,7 @@
       </p>
     </td>
     <td valign="middle" align="right" width="35%">
-      <img src="https://raw.githubusercontent.com/ltreser/ltreser/main/avatar.png" width="280" />
+      <img src="https://raw.githubusercontent.com/ltreser/ltreser/main/avatar.png" width="220" />
     </td>
   </tr>
 </table>
