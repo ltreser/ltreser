@@ -20,7 +20,7 @@
       </p>
     </td>
     <td valign="middle" align="right" width="35%">
-      <img src="https://raw.githubusercontent.com/ltreser/ltreser/main/avatar.png" width="220" />
+      <img src="https://raw.githubusercontent.com/ltreser/ltreser/main/avatar.png" width="350" />
     </td>
   </tr>
 </table>
