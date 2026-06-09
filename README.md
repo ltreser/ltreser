@@ -1,7 +1,7 @@
 # Hey, I’m Lisamarie Treser 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ltreser/avatar.png" width="140" />
+  <img src="https://raw.githubusercontent.com/ltreser/ltreser/main/avatar.png" width="140" />
 </p>
 
 <p align="center">
@@ -15,7 +15,8 @@
 I’m a software engineering student at 42, currently finishing my studies.  
 Most of my work is focused on C, C++ and Linux, especially at systems level.
 
-iI like understanding what happens under the surface — memory, performance, and how software behaves when it runs. That’s usually what draws me into a project.
+
+I like understanding what happens under the surface — memory, performance, and how software behaves when it runs. That’s usually what draws me into a project.
 
 ---
 
@@ -50,6 +51,6 @@ I like code that:
 
 ## 📫 Contact
 
+
 - 💼 LinkedIn: https://linkedin.com/in/lisamarie-treser
 - 📫 Email: lisamarietreser@yahoo.de
-- 📁 GitHub: https://github.com/ltreser
