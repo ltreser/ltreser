@@ -3,9 +3,9 @@
 <table>
   <tr>
     <td valign="top" width="65%">
-      <p>I'm a software engineering student at 42, currently finishing my studies.<br>
-      Most of my work is in C, C++ and Linux, focused on systems-level programming.<br>
-      I like understanding how things work under the surface — memory, performance, and how software behaves at runtime. That's usually what pulls me into a project.</p>
+      <p>I'm a software engineering student at 42 coding school, one of the worlds most innovative educational institutions (3rd in WURI ranking) with over 50 campuses worldwide, currently finishing my studies.<br>
+      Most of my projects are in C, C++ and Linux, focused on systems-level programming.<br>
+      I like understanding how things work under the surface — memory, performance, and how software behaves at runtime. Finding elegant architectural solutions with optimization in mind is usually what pulls me into a project.</p>
       <p>
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
