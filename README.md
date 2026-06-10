@@ -48,14 +48,16 @@ These are the projects I've spent the most time on and learned the most from.
 
 ---
 
+
 ## ⚙️ How I think about code
+
 
 I like code that:
 
-- stays readable without unnecessary complexity
-- does one thing properly instead of trying to do too much
-- avoids boilerplate where possible
-- is efficient without becoming unreadable
+- does one thing at a time, so it stays easy to debug and readable for others
+- uses intentional function and variable names, the more it reads like a sentence the better
+- relies on explicit control flow and avoids unnecessary abstraction layers
+- manages ressources in an explicit and predictable way
 
 ---
 
