@@ -6,21 +6,13 @@
       <p>I'm a software engineering student at 42, currently finishing my studies.<br>
       Most of my work is in C, C++ and Linux, focused on systems-level programming.<br>
       I like understanding how things work under the surface — memory, performance, and how software behaves at runtime. That's usually what pulls me into a project.</p>
-      <h3>🧠 About</h3>
-      <ul>
-        <li>🎓 Finishing my studies at <strong>42 School</strong></li>
-        <li>🧱 Building experience through systems-level projects in C/C++</li>
-        <li>⚙️ Interested in performance, low-level design, and constrained environments</li>
-        <li>🧩 Prefer building from scratch when it makes sense</li>
-      </ul>
       <p>
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
         <img src="https://img.shields.io/badge/Make-A42E2B?style=for-the-badge&logo=cmake&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+        <img src="https://img.shields.io/badge/ncurses-000000?style=for-the-badge&logoColor=white" />
       </p>
     </td>
     <td valign="middle" align="right" width="35%">
@@ -28,6 +20,15 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🧠 About
+
+- 🎓 Finishing my studies at **42 School**
+- 🧱 Building experience through systems-level projects in C/C++
+- ⚙️ Interested in performance, low-level design, and constrained environments
+- 🧩 Prefer building from scratch when it makes sense
 
 ---
 
