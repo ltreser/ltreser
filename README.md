@@ -11,8 +11,9 @@
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
         <img src="https://img.shields.io/badge/Make-A42E2B?style=for-the-badge&logo=cmake&logoColor=white" />
-        <img src="https://img.shields.io/badge/ncurses-000000?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
       </p>
     </td>
     <td valign="middle" align="right" width="35%">
