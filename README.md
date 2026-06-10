@@ -14,6 +14,7 @@
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
         <img src="https://img.shields.io/badge/Make-A42E2B?style=for-the-badge&logo=cmake&logoColor=white" />
         <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       </p>
     </td>
     <td valign="middle" align="right" width="35%">
