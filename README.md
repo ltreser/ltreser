@@ -26,9 +26,10 @@
 
 ## 🧠 About
 
-- 🎓 Finishing my studies at **42 School**
+
+- 🎓 Finishing my studies at **42 Coding School**
 - 🧱 Building experience through systems-level projects in C/C++
-- ⚙️ Interested in performance, low-level design, and constrained environments
+- ⚙️  Interested in performance, low-level design, and constrained environments
 - 🧩 Prefer building from scratch when it makes sense
 
 ---
@@ -36,9 +37,11 @@
 ## 🛠 Projects
 
 - 🐚 **minishell** — Unix shell implementation in C
-- 🧱 **push_swap** — constrained sorting problem with algorithmic focus
+- 🧱 **push_swap** — constrained sorting optimization problem with algorithmic focus
 - 🌐 **webserv** — HTTP server implementation (C/C++, network programming, HTTP parsing)
 - 🎮 **miniRT** — ray tracer focused on structure and performance
+- 🧵 **philosophers** — concurrency problem in C, exploring threads, mutexes, and synchronization
+
 
 These are the projects I've spent the most time on and learned the most from.
 
