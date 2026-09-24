@@ -3,7 +3,8 @@
 <table>
   <tr>
     <td valign="top" width="65%">
-      <p>I'm a software engineering student at 42 coding school, one of the worlds most innovative educational institutions (3rd in WURI ranking) with over 50 campuses worldwide, currently finishing my studies.<br>
+      <p>I'm an embedded systems intern at Konstruktiv GmbH, working with STM32 microcontrollers.<br>
+      I studied software engineering at 42 coding school, one of the world's most innovative educational institutions (3rd in WURI ranking) with over 50 campuses worldwide.<br>
       Most of my projects are in C, C++ and Linux, focused on systems-level programming.<br>
       I like understanding how things work under the surface — memory, performance, and how software behaves at runtime. Finding elegant architectural solutions with optimization in mind is usually what pulls me into a project.</p>
       <p>
