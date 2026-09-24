@@ -29,7 +29,7 @@
 ## 🧠 About
 
 
-- 🎓 Finishing my studies at **42 Coding School**
+- 🎓 Starting the advanced curriculum at **42 Coding School**
 - 🧱 Building experience through systems-level projects in C/C++
 - ⚙️  Interested in performance, low-level design, and constrained environments
 - 🧩 Prefer building from scratch when it makes sense
